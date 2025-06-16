@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1750105948062,"sparkVersion":"3.5.5","uid":"OneHotEncoder_275d4f800214","paramMap":{"inputCol":"estado_civil_index","outputCol":"estado_civil_encoded"},"defaultParamMap":{"outputCol":"OneHotEncoder_275d4f800214__output","dropLast":true,"handleInvalid":"error"}}

@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.StringIndexerModel","timestamp":1750105946052,"sparkVersion":"3.5.5","uid":"StringIndexer_4d4f731495e5","paramMap":{"outputCol":"escolaridade_index","inputCol":"escolaridade"},"defaultParamMap":{"stringOrderType":"frequencyDesc","outputCol":"StringIndexer_4d4f731495e5__output","handleInvalid":"error"}}

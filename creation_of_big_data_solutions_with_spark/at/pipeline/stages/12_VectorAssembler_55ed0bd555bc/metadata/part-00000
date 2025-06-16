@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1750105948384,"sparkVersion":"3.5.5","uid":"VectorAssembler_55ed0bd555bc","paramMap":{"outputCol":"numeric_vector","inputCols":["idade","gastos_mensais","gastos_por_idade"]},"defaultParamMap":{"outputCol":"VectorAssembler_55ed0bd555bc__output","handleInvalid":"error"}}
